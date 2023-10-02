@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ukipatimu
+- 👀 I’m interested in making games and I like art.
+- 🌱 I’m currently learning how to make games in Godot and working on a gamemodes style game called Redhead.
+- 💞️ I'm not looking to collaborate I work solo.
